@@ -83,7 +83,7 @@ This project is deployed using **Vercel** for fast and reliable hosting.
 
 ## 👨‍💻 Author
 
-**Hemanth L Pujar**
+**Hemanth L **
 
 * GitHub: https://github.com/HEMANTHL-coder
 
